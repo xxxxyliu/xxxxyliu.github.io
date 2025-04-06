@@ -2,41 +2,36 @@
 layout: page
 ---
 
-# About Me
+# Xinyu Liu (刘欣雨)
 
-<img src="images/xinyu.jpg" class="floatpic">
+<img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
 
-Here is **Xinyu Liu (刘欣雨)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+I am a second-year Master's student at the [School of Artificial Intelligence, Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+My current research focuses on **Referring Image Segmentation** and **Remote Sensing Image Interpretation** in the domain of computer vision. I am particularly interested in exploring **Multi-modality Understanding**, **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Scene Understanding**, with a growing enthusiasm for multimodal large-scale models.
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+Beyond academia, I actively share technical insights through Chinese blogs on [CSDN](https://blog.csdn.net/weixin_45863274), accumulating over 40,000 total views.<br>
 
----
+If you are interested in any aspect of me, please feel free to contact me via [email](xxxxyliu@stu.xidian.edu.cn) or in person.
 
-## Research Interests
-
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+**<font color="#990000">I am currently seeking Ph.D. opportunities for Fall 2026. Please don’t hesitate to contact me if you have any information. Thank you!</font>**
 
 ---
+## 📖Education📖
 
-## News and Updates
+- **Sept. 2023 – Present**：M.S. at **Xidian University**, supervised by Prof. [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html).
+- **Sept. 2019 – Jun. 2023**: B.Eng. in Automation at **Shanxi University**.
+
+---
+<!-- 
+## News and Updates(Some Keywords)
 
 - **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
 - **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
 - **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
 - **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
 - **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
 
 <br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
