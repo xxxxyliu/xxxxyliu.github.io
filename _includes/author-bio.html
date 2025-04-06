@@ -3,10 +3,7 @@
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
 <p>{{ site.owner.bio }}</p>
-<p style="text-indent:0;margin-top:1.5em;">Date of Birth: {{ site.owner.date_of_birth }}</p>
-<p style="text-indent:0;margin-top:1.5em;">Native Place: {{ site.owner.native_place }}</p>
-<p style="text-indent:0;margin-top:1.5em;">Current Residence: {{ site.owner.current_residence }}</p>
-{% if site.owner.date_of_birth %}<p style="text-indent:0;"><a><img src="https://xxxxyliu.github.io/images/logo/birthday.png" width="16.5" height="16.5"></i> {{ site.owner.date_of_birth }}</a></p>{% endif %}
+{% if site.owner.date_of_birth %}<p style="text-indent:0;margin-top:1.5em;"><a><img src="https://xxxxyliu.github.io/images/logo/birthday.png" width="16.5" height="16.5"></i> {{ site.owner.date_of_birth }}</a></p>{% endif %}
 
 {% if site.owner.native_place %}<p style="text-indent:0;"><a><img src="https://xxxxyliu.github.io/images/logo/native.png" width="16.5" height="16.5"></i> {{ site.owner.native_place }}</a></p>{% endif %}
 
@@ -14,7 +11,7 @@
 
 {% if site.owner.csdn %} <p style="text-indent:0;"><a href="{{ site.owner.csdn }}"><img src="https://xxxxyliu.github.io/images/logo/csdn.png" width="16.5" height="16.5"></i> CSDN</a></p>{% endif %}
 
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
+{% if site.owner.email %}<p style="text-indent:0;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
 {% if site.owner.cv %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="https://caihanlin.com/images/logo/icons8-cv-100.png" width="16.5" height="16.5"></i> My CV</a></p>{% endif %}
 
