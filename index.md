@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
 
-
+<br>
 I am a second-year Master's student at the [School of Artificial Intelligence, Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education.
 
 My current research focuses on **Referring Image Segmentation** and **Remote Sensing Image Interpretation** in the domain of computer vision. I am particularly interested in exploring **Multi-modality Understanding**, **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Scene Understanding**, with a growing enthusiasm for multimodal large-scale models.
