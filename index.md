@@ -2,36 +2,52 @@
 layout: page
 ---
 
-# Xinyu Liu (刘欣雨)
+# Xinyu Liu
 
 <img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
 
 <br>
 I am a second-year Master's student at the [School of Artificial Intelligence, Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education.
 
-My current research focuses on **Referring Image Segmentation** and **Remote Sensing Image Interpretation** in the domain of computer vision. I am particularly interested in exploring **Multi-modality Understanding**, **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Scene Understanding**, with a growing enthusiasm for multimodal large-scale models.
+## 💫Research Interests💫
+- Referring Image Segmentation
+- Vision-Language Understanding
+- Computer Vision
 
-Beyond academia, I actively share technical insights through Chinese blogs on [CSDN](https://blog.csdn.net/weixin_45863274), accumulating over 40,000 total views.<br>
+My current research focuses on *Referring Image Segmentation* and *Remote Sensing Image Interpretation*. Beyond these areas, I am actively exploring *video understanding*, *Large Language Models (LLMs)*, and *reinforcement learning (RL)*.I maintain a strong enthusiasm for multimodal systems and scene understanding, and I am keen to explore emerging interdisciplinary domains. <br>
+<!-- I am particularly interested in exploring **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Scene Understanding**, with a growing enthusiasm for multimodal large-scale models. -->
 
-If you are interested in any aspect of me, please feel free to contact me via [email](xxxxyliu@stu.xidian.edu.cn) or in person.
+I regularly publish Chinese technical blogs on CSDN, with cumulative readership exceeding 40,000 views. Welcome to follow my [CSDN account](https://blog.csdn.net/weixin_45863274).<br>
 
-**<font color="#990000">I am currently seeking Ph.D. opportunities for Fall 2026. Please don’t hesitate to contact me if you have any information. Thank you!</font>**
+**<font color="#990000">I am actively seeking Ph.D. opportunities in Fall 2026. If you are interested in my academic profile or potential collaborations, please feel free to reach out via 📧Email at xxxxyliu@stu.xidian.edu.cn </font>**
 
 ---
 ## 📖Education📖
 
-- **Sept. 2023 – Present**：M.S. at **Xidian University**, supervised by Prof. [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html).
-- **Sept. 2019 – Jun. 2023**: B.Eng. in Automation at **Shanxi University**.
+#### **Sept. 2023 – Present**： M.S. <br>
+School of Artificial Intelligence, *Xidian University*  <br>
+Postgraduate Recommendation (Ranked 3/158) <br>
+Supervised by Prof. [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html).
+#### **Sept. 2019 – Jun. 2023**: B.Eng. in Automation <br>
+*Shanxi University*
+Graduated with a Bachelor's Degree in Engineering
 
 ---
-<!-- 
-## News and Updates(Some Keywords)
+## ✨Academic Journey✨ <!-- Key Milestones -->
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò. -->
+- **Apr 2024 – Present**  
+  Theoretical Research and Application Framework of Remote Sensing Foundation Models (RSFM),  
+  IPIU Lab of Xidian University
 
+- **Jul 2024 – Sep 2024**  
+  ECCV 2024 Challenge – Two Third Place Awards
+
+- **Mar 2024 – Jun 2024**  
+  CVPR 2024 Challenges – 1st Place ×1, 2nd Place ×1, 3rd Place ×2
+
+- **Jul 2023 – Nov 2023**  
+  Eye-Controlled Intelligent Wheelchair Project  
+
+- **Jan 2023 – May 2023**  
+  Final Year Project: Scattering Transformer-based SAR image anomaly change detection
 <br>
