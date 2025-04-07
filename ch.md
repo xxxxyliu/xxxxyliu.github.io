@@ -7,7 +7,7 @@ title: 刘欣雨
 # 刘欣雨
 
 <img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
-
+<br>
 你好，欢迎你来到我的主页。
 
 我是一名西安电子科技大学人工智能学院的硕士二年级研究生，目前在智能感知与图像理解教育部重点实验室（IPIU实验室），师从[焦李成教授](https://www.xidian.edu.cn/)。<br>
@@ -19,6 +19,7 @@ title: 刘欣雨
 坚持用 Markdown 写科研日志，因为相信可复现性是科研人的浪漫。我也会在 [CSDN](https://blog.csdn.net/weixin_45863274) 上写一些博客，欢迎交流与关注～ <br>
 
 **<font color="#990000">目前，我正积极寻找 2026 年秋季入学的博士机会，如果您对我的研究方向感兴趣，或有潜在合作意向，欢迎随时与我联系。📧xxxxyliu@stu.xidian.edu.cn </font>**
+
 ---
 ## 📖教育经历📖
 

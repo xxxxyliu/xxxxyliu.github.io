@@ -24,20 +24,19 @@ I regularly publish Chinese technical blogs on CSDN, with cumulative readership 
 ---
 ## 📖Education📖
 
-#### **Sept. 2023 – Present**： M.S. <br>
+#### ⬥**Sept. 2023 – Present**： M.S. <br>
 School of Artificial Intelligence, *Xidian University*  <br>
 Postgraduate Recommendation (Ranked 3/158) <br>
 Supervised by Prof. [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html).
-#### **Sept. 2019 – Jun. 2023**: B.Eng. in Automation <br>
-*Shanxi University*
+#### ⬥**Sept. 2019 – Jun. 2023**: B.Eng. in Automation <br>
+*Shanxi University* <br>
 Graduated with a Bachelor's Degree in Engineering
 
 ---
 ## ✨Academic Journey✨ <!-- Key Milestones -->
 
 - **Apr 2024 – Present**  
-  Theoretical Research and Application Framework of Remote Sensing Foundation Models (RSFM),  
-  IPIU Lab of Xidian University
+  Theoretical Research and Application Framework of Remote Sensing Foundation Models (RSFM),  IPIU Lab of Xidian University
 
 - **Jul 2024 – Sep 2024**  
   ECCV 2024 Challenge – Two Third Place Awards
