@@ -24,7 +24,7 @@ I regularly publish Chinese technical blogs on CSDN, with cumulative readership 
 ---
 ## 📖Education📖
 
-#### ⬥**Sept. 2023 – Present**： M.S. <br>
+#### ⬥**Sept. 2023 – Present**: M.S. <br>
 School of Artificial Intelligence, *Xidian University*  <br>
 Postgraduate Recommendation (Ranked 3/158) <br>
 Supervised by Prof. [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html).

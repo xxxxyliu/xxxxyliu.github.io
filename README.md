@@ -1,10 +1,9 @@
-# GuangLun2000.github.io
+# xxxxyliu.github.io
 
-GuangLun (光轮) means Nimbus in Chinese ✨
+Here is **Xinyu Liu(刘欣雨)**. This is the repository for my personal website.
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my personal website.
 
-## Update and News
+<!-- ## Update and News
 
 - **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you so much!
 - **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
@@ -16,8 +15,8 @@ Here is **Hanlin Cai (Lance, 蔡汉霖)**. This is the repository for my persona
 
 **If you like it, please STAR it! 🥰**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date) -->
 
-## Statement
+<!-- ## Statement
 
-© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io). -->

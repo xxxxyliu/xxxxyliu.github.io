@@ -8,45 +8,72 @@ title: Publications
 
 ## Working Paper
 
-- Semantic Communication for the Internet of Space: Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>Submitted to **IEEE Communications Standards Magazine**.
+### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
+**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao~, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
+Submitted to **ACM MM 2025**.
 
 ---
 
-## Conference Paper
+## Technical Report
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>
-  [arXiv](https://arxiv.org/abs/2502.08426). Catania, Italy. February, 2025.
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
+### ⬥ [Third Place Report of the LSVOS Challenge 2024: SAM2 and Cutie-based VOS](https://arxiv.org/abs/2408.10469)
+  - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li
+  - Conference: ECCV 2024
+  - Challenge: [The 6th LSVOS Challenge - VOS Track](https://lsvos.github.io/#leadboard)
+  - Achievement: Third Place
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
+### ⬥ [3rd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation](https://arxiv.org/abs/2406.03668)
+  - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
+  - Conference: CVPR 2024
+  - Challenge: [Complex Video Object Segmentation Challenge](https://henghuiding.github.io/MOSE/ChallengeCVPR2024)
+  - Achievement: Third Place
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+### ⬥ [SoccerNet 2024 Multi-View Foul Recognition WJB Team Technical Report](https://xxxxyliu.github.io/file/soccernet.pdf)
+  - Authors: Jing Zhang, **Xinyu Liu**, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
+  - Conference: CVPR 2024
+  - Challenge: [SoccerNet 2024 Multi-View Foul Recognition](https://www.soccer-net.org/challenges/2024)
+  - Achievement: First Place
 
+### ⬥ [Low-light Raw Image Enhancement Technical solution](https://xxxxyliu.github.io/file/LowLightRaw.pdf)
+  - Authors: Jing Zhang, **Xinyu Liu**, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
+  - Conference: CVPR 2024
+  - Challenge: [The 4th International Workshop on Physics Based Vision meets Deep Learning (PBDL) Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
+  - Achievement: Second Place
 
 <br>
 
+---
+
+## Forthcoming Book
+### Unified Framework for Remote Sensing Data Interpretation and Generation
+- **Contributions**:<br>
+  - Introduction: Provided an overview of the book's scope and objectives, setting the stage for subsequent chapters.
+  - Remote Sensing Imaging Perception: Detailed the principles and methods of remote sensing imaging, including sensor technologies and image formation processes.
+  - Vision Foundation Models: Explored various vision foundation models and their applications in interpreting and generating remote sensing data, highlighting recent advancements and future directions.
+
+
 
 ---
 
-## Early Project
+## Patent Applications
 
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
+### ⬥ Multi-Modal Feature Fusion for Remote Sensing Image Classification Method and Apparatus Based on Dual Channels
+  - Inventors: Jiao Licheng, Sun Long, **Liu Xinyu**, Cao Jiamin, Liu Xu, Ma Wenping, Zhang Dan, Tian Xiaolin
+  - Application Date: November 5, 2024
+  - Status: Currently under examination.
 
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
+### ⬥ Remote Sensing Change Detection Method and System Based on Multi-Modal Spatio-Temporal Differential Feature Enhancement
+  - Inventors: Liu Fang, Sun Long, Che Chenyue, **Liu Xinyu**, Jiao Licheng, Zhang Dan, Huang Sijing, Deng Yingmin, Yang Yuting, Feng Zhixi, Liu Xu, Guo Yuwei
+  - Application Date: November 5, 2024
+  - Status: Currently under examination.
 
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
+### ⬥ Remote Sensing Multi-Task Interpretation Method and Apparatus Using Cross-Knowledge Interaction Learning and Self-Supervised Auxiliary Learning
+  - Inventors: Jiao Licheng, Sun Long, Che Chenyue, **Liu Xinyu**, Yang Yuting, Feng Zhixi, Guo Yuwei, Liu Fang 
+  - Application Date: November 5, 2024
+  - Status: Currently under examination.
 
-  <br>
-
----
-
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
-<br>
+### ⬥ Remote Sensing Visual Localization Method Based on Multi-Scale Progressive Inference
+  - Inventors:  Jiao Licheng, Lu Xiaoqiang, Cao Jiamin, **Liu Xinyu**, Yang Shuyuan, Ma Jingjing, Li Lingling, Chen Puhua 
+  - Application Date: November 5, 2024
+  - Status: Currently under examination.
