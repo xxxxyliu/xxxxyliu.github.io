@@ -10,7 +10,7 @@ title: Projects
 ## Eye-controlled Intelligent Wheelchair - 2023.07-2023.11
 
 <div>
-<img src="images/projects/chair.png"> 
+<img src="https://xxxxyliu.github.io/images/projects/chair.png"> 
 </div>
 
 This is a wheelchair specifically designed for patients with hand and foot difficulties such as ALS. <br>

@@ -41,7 +41,6 @@ Submitted to **ACM MM 2025**.
   - Challenge: [The 4th International Workshop on Physics Based Vision meets Deep Learning (PBDL) Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
   - Achievement: Second Place
 
-<br>
 
 ---
 
