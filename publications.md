@@ -4,18 +4,22 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/publications-zh.md)
+
+<br>
+
 
 ## Working Paper
+<br>
 
 ### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
-**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao~, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
-Submitted to **ACM MM 2025**.
+**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
+Submitted to **ACM MM 2025**. <br>
 
 ---
 
-## Technical Report
-
+## Technical Report 
+<br>
 
 ### ⬥ [Third Place Report of the LSVOS Challenge 2024: SAM2 and Cutie-based VOS](https://arxiv.org/abs/2408.10469)
   - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li
@@ -36,7 +40,7 @@ Submitted to **ACM MM 2025**.
   - Achievement: First Place
 
 ### ⬥ [Low-light Raw Image Enhancement Technical solution](https://xxxxyliu.github.io/file/LowLightRaw.pdf)
-  - Authors: Jing Zhang, **Xinyu Liu**, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
+  - Authors: **Xinyu Liu**,Jing Zhang, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
   - Conference: CVPR 2024
   - Challenge: [The 4th International Workshop on Physics Based Vision meets Deep Learning (PBDL) Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
   - Achievement: Second Place
@@ -45,17 +49,21 @@ Submitted to **ACM MM 2025**.
 ---
 
 ## Forthcoming Book
+<br>
+
 ### Unified Framework for Remote Sensing Data Interpretation and Generation
+
 - **Contributions**:<br>
   - Introduction: Provided an overview of the book's scope and objectives, setting the stage for subsequent chapters.
   - Remote Sensing Imaging Perception: Detailed the principles and methods of remote sensing imaging, including sensor technologies and image formation processes.
   - Vision Foundation Models: Explored various vision foundation models and their applications in interpreting and generating remote sensing data, highlighting recent advancements and future directions.
 
-
+<br>
 
 ---
 
 ## Patent Applications
+<br>
 
 ### ⬥ Multi-Modal Feature Fusion for Remote Sensing Image Classification Method and Apparatus Based on Dual Channels
   - Inventors: Jiao Licheng, Sun Long, **Liu Xinyu**, Cao Jiamin, Liu Xu, Ma Wenping, Zhang Dan, Tian Xiaolin
@@ -76,3 +84,5 @@ Submitted to **ACM MM 2025**.
   - Inventors:  Jiao Licheng, Lu Xiaoqiang, Cao Jiamin, **Liu Xinyu**, Yang Shuyuan, Ma Jingjing, Li Lingling, Chen Puhua 
   - Application Date: November 5, 2024
   - Status: Currently under examination.
+
+  <br>

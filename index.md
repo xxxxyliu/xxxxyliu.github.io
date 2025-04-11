@@ -7,14 +7,14 @@ layout: page
 <img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
 
 <br>
-I am a second-year Master's student at the [School of Artificial Intelligence, Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education.
+I am a second-year Master's student at the School of Artificial Intelligence, [Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education.
 
 ## 💫Research Interests💫
 - Referring Image Segmentation
 - Vision-Language Understanding
 - Computer Vision
 
-My current research focuses on *Referring Image Segmentation* and *Remote Sensing Image Interpretation*. Beyond these areas, I am actively exploring *video understanding*, *Large Language Models (LLMs)*, and *reinforcement learning (RL)*.I maintain a strong enthusiasm for multimodal systems and scene understanding, and I am keen to explore emerging interdisciplinary domains. <br>
+My current research focuses on *Referring Image Segmentation* and *Remote Sensing Image Interpretation*. Beyond these areas, I am actively exploring *video understanding*, *Large Language Models (LLMs)*, and *reinforcement learning (RL)*. I maintain a strong enthusiasm for multimodal systems and scene understanding, and I am keen to explore emerging interdisciplinary domains. <br>
 <!-- I am particularly interested in exploring **Large Language Models (LLMs)**, **Reinforcement Learning**, and **Scene Understanding**, with a growing enthusiasm for multimodal large-scale models. -->
 
 I regularly publish Chinese technical blogs on CSDN, with cumulative readership exceeding 40,000 views. Welcome to follow my [CSDN account](https://blog.csdn.net/weixin_45863274).<br>

@@ -31,7 +31,10 @@ title: Awards-zh
 - 季军：第六届 LSVOS 挑战赛 - VOS 赛道
 - 季军：多目标追踪 MOT
 
- 
+<div>
+<img src="https://xxxxyliu.github.io/images/awards/certificate-com.jpg">
+</div>
+<br>
 
 ## 社会服务
 

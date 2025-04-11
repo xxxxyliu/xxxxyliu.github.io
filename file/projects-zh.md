@@ -4,30 +4,49 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## RSFM：Remote Sensing Foundation Model for Data Interpretation
+> 更新时间：2025/04/11 &nbsp;  [English Version (英文)](https://xxxxyliu.github.io//projects/)
+
+## 悟瞳：遥感大模型理论研究与应用框架 - 2024.04-至今
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
 
+针对遥感领域中感知、生成与解译缺乏规范化基准以及闭源等现状，本课题组设计了高效、鲁棒的理论算法，构建了多种模态评估数据集及标准化分区，并建立了统一的代码框架 RSFM，开发了集视觉、语言与多模态于一体的基础模型，取得了 “一库解决万务” 的应用成果。
+<br>
+
+- 该框架涵盖了 CNN、Transformer、Mamba 等架构共计 100 + 种视觉、语言基础模型理论算法，参数量从最小 3M 到最大 3B 不等，适配不同应用场景需求。
+- 统一了分类、检测、分割、跟踪、多模态理解、多任务学习、视觉问答、生成等 10 + 种任务共计 100 + 种应用算法，兼容支持与任意基础模型的组合。
+- 建立了来自顶刊、顶会、国际竞赛等 50 + 种公开数据集及规范化分区，包含多光谱、SAR、文本等 8 + 种多模态数据，涉及水文、植被、交通等 10 + 种多样化场景。
+
+### 我的职责
+- 分割任务：基于 SegMunich、SPARCS 和 7 个数据集的 SpectralGPT 预训练实验，Potsdam 系列基础实验。
+- 变化检测：LEVIR-CD+ 实验。
+- 参考图像分割：在 RefSegRS 上进行 ConvNext、FocalNet、InternImage 实验。
+- 多光谱通道选择与仓库优化
+- 相关专利撰写
+- 持续研究：阅读该领域文献，方法入库与效果测试。
 
 
+<br>
 
+---
 
-## Eye-controlled Intelligent Wheelchair - 2023.07-2023.11
+## 智能眼控轮椅 - 2023.07-2023.11
 
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/chair.png"> 
 </div>
 
-This is a wheelchair specifically designed for patients with hand and foot difficulties such as ALS. <br>
-This wheelchair controls its own movement by collecting information from patients' eyeballs, thereby solving the problem of difficult travel for patients. At the same time, the wheelchair uses LiDAR to collect surrounding environmental information, and uses differential algorithms to estimate the position of the wheelchair, thereby achieving automatic driving of the wheelchair indoors.
-Main functions:
-(1) Eye controlled movement: It can collect information from the eyeballs to control the movement of the wheelchair.
-(2) Indoor autonomous driving: Using LiDAR to achieve autonomous driving indoors.
-(3) Voice and music listening: For patients who are unable to speak, they can use their eyes to control the wheelchair and send customized voice messages, such as "I want to eat" and "I want to drink water". At the same time, patients can choose the songs to play by moving their eyes.
-### My job responsibilities:
-- **Wrote the User Manual**: Developed detailed documentation to guide users on how to operate and utilize the wheelchair's features.
-- **Optimized Eye-Control Algorithms**: Improved the eye-tracking control algorithms, enhancing system responsiveness and accuracy.
-- **Microcontroller Integration**: Successfully connected and integrated microcontrollers, ensuring stable communication between hardware and software.
+这是一款专为患有渐冻症（ALS）等手脚活动困难的患者设计的智能轮椅。该轮椅通过采集患者眼球的运动信息，实现对轮椅行进方向的控制，解决了行动受限人群“出行难”的问题。同时，轮椅搭载激光雷达，实时感知周围环境，结合差分定位算法，实现室内自动驾驶功能。<br>
+### 主要功能：
+- 眼动控制行驶：通过采集用户眼球运动信息，实现对轮椅前进、转向等操作的控制。
+- 室内自主导航：利用激光雷达获取环境数据，结合定位算法，实现室内路径规划与自动驾驶。
+- 语音与音乐互动：为无法开口说话的用户提供眼动语音控制功能，可发送如“我想吃饭”“我想喝水”等定制语音内容；同时支持通过眼动选择音乐，实现陪伴与娱乐功能。
+<br>
+
+### 我的职责:
+- 用户手册编写：负责编写详细的用户操作说明文档，帮助患者及家属快速上手并正确使用各项功能。
+- 眼动控制算法优化：对眼动识别与控制算法进行改进，提升系统响应速度与准确性，增强使用体验。
+- 硬件调试：完成微控制器的接入与调试，确保硬件与软件之间的数据交互稳定可靠。
 
 <br>

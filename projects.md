@@ -4,7 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-## RSFM：Remote Sensing Foundation Model for Data Interpretation
+> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/projects-zh.md)
+
+## RSFM：Remote Sensing Foundation Model for Data Interpretation - 2024.04-Present
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
@@ -18,10 +20,10 @@ To address the challenges in remote sensing, such as task diversity, label scarc
 ### My Work Based on RSFM
 
 - Segmentation: Experiments on SegMunich, SPARCS, and 7 datasets using pre-trained SpectralGPT; baseline studies on Potsdam datasets.
-- Change Detection: Experiments on LEVIR-CD+ with >1300 GPU hours.
+- Change Detection: Experiments on LEVIR-CD+.
 - Referring Image Segmentation: Using RefSegRS with ConvNext, FocalNet, and InternImage.
 - Channel Selection and Repository Optimization for multispectral data.
-- Patent Drafting on multimodal classification.
+- Patent Drafting.
 - Ongoing Research: Literature review and method benchmarking in referring image segmentation.
 
 ---
