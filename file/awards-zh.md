@@ -5,7 +5,10 @@ title: Awards-zh
 ---
 
 > <font size="5" color="#333" > “凡是过往，皆为序章。”</font> -- 莎士比亚 <br>
+
 > 更新时间 2025/04/10 &nbsp; [English Version (英文)](https://xxxxyliu.github.io/awards/)
+
+---
 
 ## 综合奖学金
 - 2024 年 11 月：西安电子科技大学一等奖学金
@@ -20,9 +23,11 @@ title: Awards-zh
 - 2023-2024：国家级大学生创新创业训练计划<br>国重点（No.202310386056， ¥20000）基金主持人
 - 2023-2024：全国青年科普创新实验暨项目大赛奖励基金<br>竞赛奖励基金（¥5000）基金主持人 -->
 
-## 科研竞赛
-### CVPR 2024 
+---
 
+## 科研竞赛
+
+### CVPR 2024 
 - 冠军: SoccerNet 多视角犯规识别挑战赛 (Multi-View Foul Recognition) 
 - 亚军：极低光原始图像增强挑战赛 (Low-light Raw Image Enhancement) 
 - 季军：复杂视频目标分割挑战赛 (MOSE Track)<br>
@@ -35,6 +40,8 @@ title: Awards-zh
 <img src="https://xxxxyliu.github.io/images/awards/certificate-com.jpg">
 </div>
 <br>
+
+---
 
 ## 社会服务
 

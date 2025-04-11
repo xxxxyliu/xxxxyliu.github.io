@@ -4,9 +4,9 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/projects-zh.md)
+> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/projects-zh)
 
-## RSFM：Remote Sensing Foundation Model for Data Interpretation - 2024.04-Present
+## RSFM：Remote Sensing Foundation Model for Data Interpretation - *2024.04-Present*
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
@@ -28,7 +28,7 @@ To address the challenges in remote sensing, such as task diversity, label scarc
 
 ---
 
-## Eye-controlled Intelligent Wheelchair - 2023.07-2023.11
+## Eye-controlled Intelligent Wheelchair - *2023.07-2023.11*
 
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/chair.png"> 
@@ -40,6 +40,7 @@ This wheelchair controls its own movement by collecting information from patient
 - Eye controlled movement: It can collect information from the eyeballs to control the movement of the wheelchair.
 - Indoor autonomous driving: Using LiDAR to achieve autonomous driving indoors.
 - Voice and music listening: For patients who are unable to speak, they can use their eyes to control the wheelchair and send customized voice messages, such as "I want to eat" and "I want to drink water". At the same time, patients can choose the songs to play by moving their eyes.
+
 ### My job responsibilities:
 - **Wrote the User Manual**: Developed detailed documentation to guide users on how to operate and utilize the wheelchair's features.
 - **Optimized Eye-Control Algorithms**: Improved the eye-tracking control algorithms, enhancing system responsiveness and accuracy.

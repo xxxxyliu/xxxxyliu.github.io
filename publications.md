@@ -4,10 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/publications-zh.md)
-
-<br>
-
+> Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/publications-zh)
 
 ## Working Paper
 <br>

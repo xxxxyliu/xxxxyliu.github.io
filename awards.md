@@ -5,9 +5,8 @@ title: Awards
 ---
 
 > <font size="5" color="#333" >"What's past is prologue." </font> -- William Shakespeare <br>
-<br>
 
-> Lastest Update: 20th Sep 2024 &nbsp; [Chinese Version](https://xxxxyliu.github.io/file/awards-zh)
+> Lastest Update: 2025/04/11 &nbsp; [Chinese Version](https://xxxxyliu.github.io/file/awards-zh)
 
 ## Scholarships
 

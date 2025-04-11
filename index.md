@@ -36,7 +36,7 @@ Graduated with a Bachelor's Degree in Engineering
 ## ✨Academic Journey✨ <!-- Key Milestones -->
 
 - **Apr 2024 – Present**  
-  Theoretical Research and Application Framework of Remote Sensing Foundation Models (RSFM),  IPIU Lab of Xidian University
+  RSFM：Remote Sensing Foundation Model for Data Interpretation, IPIU Lab of Xidian University
 
 - **Jul 2024 – Sep 2024**  
   ECCV 2024 Challenge – Two Third Place Awards
