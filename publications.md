@@ -7,7 +7,7 @@ title: Publications
 > Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/publications-zh)
 
 ## Working Paper
-<br>
+<!-- <br> -->
 
 ### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
 **Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
@@ -16,7 +16,7 @@ Submitted to **ACM MM 2025**. <br>
 ---
 
 ## Technical Report 
-<br>
+<!-- <br> -->
 
 ### ⬥ [Third Place Report of the LSVOS Challenge 2024: SAM2 and Cutie-based VOS](https://arxiv.org/abs/2408.10469)
   - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li
@@ -42,11 +42,10 @@ Submitted to **ACM MM 2025**. <br>
   - Challenge: [The 4th International Workshop on Physics Based Vision meets Deep Learning (PBDL) Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
   - Achievement: Second Place
 
-
 ---
 
 ## Forthcoming Book
-<br>
+<!-- <br> -->
 
 ### Unified Framework for Remote Sensing Data Interpretation and Generation
 
@@ -60,7 +59,7 @@ Submitted to **ACM MM 2025**. <br>
 ---
 
 ## Patent Applications
-<br>
+<!-- <br> -->
 
 ### ⬥ Multi-Modal Feature Fusion for Remote Sensing Image Classification Method and Apparatus Based on Dual Channels
   - Inventors: Jiao Licheng, Sun Long, **Liu Xinyu**, Cao Jiamin, Liu Xu, Ma Wenping, Zhang Dan, Tian Xiaolin
@@ -81,5 +80,5 @@ Submitted to **ACM MM 2025**. <br>
   - Inventors:  Jiao Licheng, Lu Xiaoqiang, Cao Jiamin, **Liu Xinyu**, Yang Shuyuan, Ma Jingjing, Li Lingling, Chen Puhua 
   - Application Date: November 5, 2024
   - Status: Currently under examination.
-
+  
   <br>

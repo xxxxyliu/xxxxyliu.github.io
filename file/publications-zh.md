@@ -7,7 +7,7 @@ title: Publications-zh
 > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](https://xxxxyliu.github.io//publications/)
 
 ## 待发表论文
-<br>
+<!-- <br> -->
 
 ### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
 **Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao~, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
@@ -16,7 +16,7 @@ title: Publications-zh
 ---
 
 ## 技术报告
-<br> 
+<!-- <br>  -->
 
 ### ⬥ [LSVOS挑战赛2024第三名方案：基于SAM2和Cutie的视频对象分割](https://arxiv.org/abs/2408.10469) 
 - 作者：**刘欣雨**，张京，张柯欣，刘旭，李玲玲 
@@ -47,10 +47,10 @@ title: Publications-zh
 ---
 
 ## 待出版书籍
-<br>
+<!-- <br> -->
 
 ### 统一框架的遥感数据解译与生成 
-<br>
+<!-- <br> -->
 本书围绕遥感数据展开，深度融合多领域前沿技术，构建起完整且创新的遥感数据解译与生成统一框架。
 
 #### 章节贡献
@@ -64,7 +64,7 @@ title: Publications-zh
 ---
 
 ## 专利申请
-<br>
+<!-- <br> -->
 
 ### ⬥ 基于双通道的多模态特征融合遥感图像分类方法及装置
 - 发明人: 焦李成,孙龙,刘欣雨,曹佳敏,刘旭,马文萍,张丹,田小林
@@ -86,4 +86,3 @@ title: Publications-zh
 - 申请时间：2024年11月5日
 - 状态：审查中
 
-<br>

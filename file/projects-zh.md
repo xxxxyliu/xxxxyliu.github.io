@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /projects/index.html
-title: Projects
+permalink: /file/projects-zh/index.html
+title: Projects-zh
 ---
 
 > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](https://xxxxyliu.github.io//projects/)
@@ -11,8 +11,7 @@ title: Projects
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
 
-针对遥感领域中感知、生成与解译缺乏规范化基准以及闭源等现状，本课题组设计了高效、鲁棒的理论算法，构建了多种模态评估数据集及标准化分区，并建立了统一的代码框架 RSFM，开发了集视觉、语言与多模态于一体的基础模型，取得了 “一库解决万务” 的应用成果。
-<br>
+针对遥感领域中感知、生成与解译缺乏规范化基准以及闭源等现状，本课题组设计了高效、鲁棒的理论算法，构建了多种模态评估数据集及标准化分区，并建立了统一的代码框架 RSFM，开发了集视觉、语言与多模态于一体的基础模型，取得了 “一库解决万务” 的应用成果。<br>
 
 - 该框架涵盖了 CNN、Transformer、Mamba 等架构共计 100 + 种视觉、语言基础模型理论算法，参数量从最小 3M 到最大 3B 不等，适配不同应用场景需求。
 - 统一了分类、检测、分割、跟踪、多模态理解、多任务学习、视觉问答、生成等 10 + 种任务共计 100 + 种应用算法，兼容支持与任意基础模型的组合。
