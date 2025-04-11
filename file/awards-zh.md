@@ -5,7 +5,7 @@ title: Awards-zh
 ---
 
 > <font size="5" color="#333" > “凡是过往，皆为序章。”</font> -- 莎士比亚 <br>
-> 更新时间：2025/04/10 &nbsp; [English Version (英文)](https://xxxxyliu.github.io/awards/)
+> 更新时间 2025/04/10 &nbsp; [English Version (英文)](https://xxxxyliu.github.io/awards/)
 
 ## 综合奖学金
 - 2024 年 11 月：西安电子科技大学一等奖学金
