@@ -8,7 +8,7 @@ title: 刘欣雨
 
 <img src="https://xxxxyliu.github.io/images/xinyu.jpg" class="floatpic"> 
 
-<div style="margin-bottom: 20px;">你好，欢迎你来到我的主页。</div>
+<div style="margin-bottom: 20px;">你好，欢迎来到我的主页。</div>
 
 我是一名西安电子科技大学人工智能学院的硕士二年级研究生，目前在智能感知与图像理解教育部重点实验室（IPIU实验室），师从[焦李成教授](https://www.xidian.edu.cn/)。
 <br>

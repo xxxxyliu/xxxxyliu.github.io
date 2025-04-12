@@ -54,7 +54,6 @@ Submitted to **ACM MM 2025**. <br>
   - Remote Sensing Imaging Perception: Detailed the principles and methods of remote sensing imaging, including sensor technologies and image formation processes.
   - Vision Foundation Models: Explored various vision foundation models and their applications in interpreting and generating remote sensing data, highlighting recent advancements and future directions.
 
-<br>
 
 ---
 
@@ -80,5 +79,5 @@ Submitted to **ACM MM 2025**. <br>
   - Inventors:  Jiao Licheng, Lu Xiaoqiang, Cao Jiamin, **Liu Xinyu**, Yang Shuyuan, Ma Jingjing, Li Lingling, Chen Puhua 
   - Application Date: November 5, 2024
   - Status: Currently under examination.
-  
+
   <br>

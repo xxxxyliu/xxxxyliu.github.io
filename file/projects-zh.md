@@ -6,7 +6,9 @@ title: Projects-zh
 
 > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](https://xxxxyliu.github.io//projects/)
 
-## 悟瞳：遥感大模型理论研究与应用框架 - 2024.04-至今
+## 悟瞳：遥感大模型理论研究与应用框架 
+> 2024.04-至今
+
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
@@ -30,7 +32,8 @@ title: Projects-zh
 
 ---
 
-## 智能眼控轮椅 - 2023.07-2023.11
+## 智能眼控轮椅 
+> 2023.07-2023.11
 
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/chair.png"> 

@@ -6,10 +6,13 @@ title: Projects
 
 > Lastest Update：2025/04/11 &nbsp;  [Chinese Version](https://xxxxyliu.github.io/file/projects-zh)
 
-## RSFM：Remote Sensing Foundation Model for Data Interpretation - *2024.04-Present*
+## RSFM：Remote Sensing Foundation Model for Data Interpretation 
+> 2024.04-Present
+
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/rsfm.png"> 
 </div>
+
 To address the challenges in remote sensing, such as task diversity, label scarcity, and modality gaps, our team has developed the RSFM (Remote Sensing Foundation Model) — a unified code framework and foundation model integrating visual and language modalities. RSFM enables versatile task solving across multiple domains under a “one model for all tasks” paradigm.<br>
 
 ### Highlights:
@@ -28,7 +31,9 @@ To address the challenges in remote sensing, such as task diversity, label scarc
 
 ---
 
-## Eye-controlled Intelligent Wheelchair - *2023.07-2023.11*
+## Eye-controlled Intelligent Wheelchair 
+
+> 2023.07-2023.11
 
 <div>
 <img src="https://xxxxyliu.github.io/images/projects/chair.png"> 
