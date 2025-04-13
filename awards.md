@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> <font size="5" color="#333" >"What's past is prologue." </font> -- William Shakespeare <br>
-
 > Lastest Update: 2025/04/11 &nbsp; [Chinese Version](https://xxxxyliu.github.io/file/awards-zh)
 
 ## Scholarships
@@ -50,3 +48,5 @@ title: Awards
 - 2021-2022: Excellent Psychological Committee Member
 
 <br>
+
+> <font size="5" color="#333" >"What's past is prologue." </font> -- William Shakespeare <br>

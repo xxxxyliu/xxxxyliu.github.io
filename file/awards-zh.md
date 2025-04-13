@@ -4,8 +4,6 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-> <font size="5" color="#333" > “凡是过往，皆为序章。”</font> -- 莎士比亚 <br>
-
 > 更新时间 2025/04/10 &nbsp; [English Version (英文)](https://xxxxyliu.github.io/awards/)
 
 ---
@@ -50,5 +48,6 @@ title: Awards-zh
 - 山西大学优秀心理委员（2021-2022 学年）
 - “青春兴芮，‘芮’不可当”短视频摄影大赛三等奖（2021 年）
 - “全民防疫，博爱献血，红十字在行动”优秀志愿者（2020 年）
+<br>
 
-
+> <font size="5" color="#333" > “凡是过往，皆为序章。”</font> -- 莎士比亚 <br>
