@@ -18,25 +18,29 @@ Submitted to **ACM MM 2025**. <br>
 ## Technical Report 
 <!-- <br> -->
 
-### ⬥ [Third Place Report of the LSVOS Challenge 2024: SAM2 and Cutie-based VOS](https://arxiv.org/abs/2408.10469)
+### ⬥ Third Place Report of the LSVOS Challenge 2024: SAM2 and Cutie-based VOS
+  - Paper Link: https://arxiv.org/abs/2408.10469
   - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li
   - Conference: ECCV 2024
   - Challenge: [The 6th LSVOS Challenge - VOS Track](https://lsvos.github.io/#leadboard)
   - Achievement: Third Place
 
-### ⬥ [3rd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation](https://arxiv.org/abs/2406.03668)
+### ⬥ 3rd Place Solution for MOSE Track in CVPR 2024 PVUW workshop: Complex Video Object Segmentation 
+  - Paper Link: https://arxiv.org/abs/2406.03668
   - Authors: **Xinyu Liu**, Jing Zhang, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
   - Conference: CVPR 2024
   - Challenge: [Complex Video Object Segmentation Challenge](https://henghuiding.github.io/MOSE/ChallengeCVPR2024)
   - Achievement: Third Place
 
-### ⬥ [SoccerNet 2024 Multi-View Foul Recognition WJB Team Technical Report](https://xxxxyliu.github.io/file/soccernet.pdf)
+### ⬥ SoccerNet 2024 Multi-View Foul Recognition WJB Team Technical Report
+  - Paper Link: https://xxxxyliu.github.io/file/soccernet.pdf
   - Authors: Jing Zhang, **Xinyu Liu**, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
   - Conference: CVPR 2024
   - Challenge: [SoccerNet 2024 Multi-View Foul Recognition](https://www.soccer-net.org/challenges/2024)
   - Achievement: First Place
 
-### ⬥ [Low-light Raw Image Enhancement Technical solution](https://xxxxyliu.github.io/file/LowLightRaw.pdf)
+### ⬥ Low-light Raw Image Enhancement Technical solution
+  - Paper Link: https://xxxxyliu.github.io/file/LowLightRaw.pdf
   - Authors: **Xinyu Liu**,Jing Zhang, Kexin Zhang, Yuting Yang, Licheng Jiao, Shuyuan Yang
   - Conference: CVPR 2024
   - Challenge: [The 4th International Workshop on Physics Based Vision meets Deep Learning (PBDL) Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
