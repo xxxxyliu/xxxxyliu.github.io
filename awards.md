@@ -18,6 +18,7 @@ title: Awards
 
 - 2024.09: **Third Place**: [GigaMOT](https://gigavision.cn/track/track/?nav=Tracking&type=nav&t=1734165651038), ECCV 2024.
 - 2024.08: **Third Place**: [THE 6TH LSVOS CHALLENGE - VOS Track](https://lsvos.github.io/#leadboard) - VOS Track, ECCV 2024.
+
 - 2024.05: **First Place**: [SoccerNet-Multi-View Foul Recognition](https://www.soccer-net.org/challenges/2024), CVPR 2024.
 - 2024.04: **Second Place**: [Low-light Raw Image Enhancement](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html), CVPR 2024.
 - 2024.06: **Third Place**: [Complex Video Object Segmentation Challenge](https://henghuiding.github.io/MOSE/ChallengeCVPR2024) (MOSE Track), CVPR 2024.

@@ -10,7 +10,7 @@ title: Publications-zh
 <!-- <br> -->
 
 ### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
-**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao~, Xu Liu, Fang Liu, wenping ma, Shuyuan Yang<br>
+**刘欣雨**, 李玲玲, 路小强, 焦李成, 刘旭, 刘芳, 马文萍, 杨淑媛<br>
 提交于 **ACM MM 2025** <br>
 
 ---
