@@ -26,13 +26,13 @@ title: Awards-zh
 ## 科研竞赛
 
 ### CVPR 2024 
-- 冠军: SoccerNet 多视角犯规识别挑战赛 (Multi-View Foul Recognition) 
-- 亚军：极低光原始图像增强挑战赛 (Low-light Raw Image Enhancement) 
-- 季军：复杂视频目标分割挑战赛 (MOSE Track)<br>
+- 冠军: [SoccerNet 多视角犯规识别挑战赛 (Multi-View Foul Recognition) ](https://www.soccer-net.org/challenges/2024)
+- 亚军：[极低光原始图像增强挑战赛 (Low-light Raw Image Enhancement) ](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)
+- 季军：[复杂视频目标分割挑战赛 (MOSE Track)](https://henghuiding.github.io/MOSE/ChallengeCVPR2024)<br>
 
 ### ECCV 2024
-- 季军：第六届 LSVOS 挑战赛 - VOS 赛道
-- 季军：多目标追踪 MOT
+- 季军：[第六届 LSVOS 挑战赛 - VOS 赛道](https://lsvos.github.io/#leadboard)
+- 季军：[多目标追踪 MOT](https://gigavision.cn/track/track/?nav=Tracking&type=nav&t=1734165651038)
 
 <div>
 <img src="https://xxxxyliu.github.io/images/awards/certificate-com.jpg">
