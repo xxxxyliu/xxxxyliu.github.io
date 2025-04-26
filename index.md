@@ -19,7 +19,7 @@ My current research focuses on *Referring Image Segmentation* and *Remote Sen
 
 I regularly publish Chinese technical blogs on CSDN, with cumulative readership exceeding 40,000 views. Welcome to follow my [CSDN account](https://blog.csdn.net/weixin_45863274).<br>
 
-**<font color="#990000">I am actively seeking Ph.D. opportunities in Fall 2026. If you are interested in my academic profile or potential collaborations, please feel free to reach out via 📧Email at xxxxyliu@stu.xidian.edu.cn </font>**
+**<font color="#990000">I am actively seeking Ph.D. opportunities in Fall 2026. If you are interested in my academic profile or potential collaborations, please feel free to reach out via 📧Email at xxxxyliu@stu.xidian.edu.cn OR 🌏Wechat: X1658311351 </font>**
 
 ---
 ## 📖Education📖
