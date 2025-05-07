@@ -15,7 +15,7 @@ title: Blogs
       <img src="https://xxxxyliu.github.io/images/xy/23.JPG" alt="blog image" style="width: 200px; height: auto; margin-right: 10px;">
       <div>
         <p style="font-size: 16px; margin-bottom: 5px;">
-          一封写给自己的二十三岁生日信，记录成长的思索与情感的流动。二十三岁的光影里，是一次次回望与靠近，是学会温柔地拥抱真实的自己。
+          一封写给自己的二十三岁生日信，记录成长的思索与情感的流动。在过去二十二岁的光影里，是一次次回望与靠近，是学会温柔地拥抱真实的自己。
         </p>
         <p style="font-size: 14px; color: #666; margin-top: 5px;">2025-05-07</p>
       </div>
