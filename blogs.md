@@ -4,12 +4,6 @@ permalink: /blogs/index.html
 title: Blogs
 ---
 
----
-layout: page
-permalink: /blogs/index.html
-title: Blogs
----
-
 ## Blogs List
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
