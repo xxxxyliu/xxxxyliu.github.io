@@ -13,17 +13,17 @@ title: Blogs
 ## Blogs List
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-  <div class="blog-item" style="flex: 1 1 300px; border: 1px solid #ccc; padding: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);">
+  <div class="blog-item" style="flex: 1 1 350px; border: 1px solid #ccc; padding: 10px; box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);">
     <h2 style="font-size: 24px; margin-bottom: 10px;">
       <a href="https://xxxxyliu.github.io/blogs/23" style="text-decoration: none; color: #000;">23岁，再勇敢一些</a>
     </h2>
     <div style="display: flex; align-items: start; margin-bottom: 10px;">
-      <img src="https://xxxxyliu.github.io/images/xy/23.JPG" alt="blog image" style="width: 150px; height: auto; margin-right: 10px;">
+      <img src="https://xxxxyliu.github.io/images/xy/23.JPG" alt="blog image" style="width: 200px; height: auto; margin-right: 10px;">
       <div>
         <p style="font-size: 16px; margin-bottom: 5px;">
           一封写给自己的二十三岁生日信，记录成长的思索与情感的流动。二十三岁的光影里，是一次次回望与靠近，是学会温柔地拥抱真实的自己。
         </p>
-        <p style="font-size: 14px; color: #666;">2025-05-07</p>
+        <p style="font-size: 14px; color: #666; margin-top: 5px;">2025-05-07</p>
       </div>
     </div>
   </div>
@@ -53,16 +53,8 @@ title: Blogs
 
 
 
-## Leave a Message 欢迎留言
-
-<br>
-
-{% include disqus.html %} 
-
-<br>
 
 <!-- <br>[![Star History Chart](https://api.star-history.com/svg?repos=xxxxyliu/xxxxyliu.github.io&type=Date)](https://star-history.com/#xxxxyliu/xxxxyliu.github.io&Date) -->
 
-My WeChat account - X1658311351
 
 <br>
