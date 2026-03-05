@@ -26,7 +26,7 @@ title: Awards
 <br>
 
 <div>
-<img src="images/awards/certificate-com.jpg">
+<img src="/images/awards/certificate-com.jpg">
 </div>
 <br>
 

@@ -10,7 +10,7 @@ title: Projects
 > 2024.04-Present
 
 <div>
-<img src="images/projects/rsfm.png"> 
+<img src="/images/projects/rsfm.png"> 
 </div>
 
 To address the challenges in remote sensing, such as task diversity, label scarcity, and modality gaps, our team has developed the RSFM (Remote Sensing Foundation Model) — a unified code framework and foundation model integrating visual and language modalities. RSFM enables versatile task solving across multiple domains under a “one model for all tasks” paradigm.<br>
@@ -36,7 +36,7 @@ To address the challenges in remote sensing, such as task diversity, label scarc
 > 2023.07-2023.11
 
 <div>
-<img src="images/projects/chair.png"> 
+<img src="/images/projects/chair.png"> 
 </div>
 
 This is a wheelchair specifically designed for patients with hand and foot difficulties such as ALS. <br>
