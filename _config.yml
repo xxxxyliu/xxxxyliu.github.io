@@ -1,5 +1,5 @@
 title: Hi :)
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Xinyu Liu. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://xxxxyliu.github.io/
@@ -8,12 +8,12 @@ url: https://xxxxyliu.github.io/
 owner:
   name: Xinyu Liu
   avatar: 0qx-dog.JPG
-  date_of_birth: 2002.03
+  date_of_birth: 2002.05.07
   native_place: Yuncheng, Shanxi 
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: X1658311351@163.com 
   csdn: https://blog.csdn.net/weixin_45863274
-  cv: https://xxxxyliu.github.io/file/cv.pdf
+  cv: file/cv.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   github: xxxxyliu
@@ -40,21 +40,21 @@ owner:
 # For external links add external: true
 links:
   - title: Xinyu Liu
-    url: /
+    url: /0en/
   - title: 刘欣雨
-    url: /ch/
+    url: /0zh/
   - title: Publications
-    url: /publications/
+    url: /0en/publications/
   - title: Projects
-    url: /projects/
+    url: /0en/projects/
   - title: Awards
-    url: /awards/
+    url: /0en/awards/
   # - title: Hobbies
   #   url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+  # - title: Blogs
+  #   url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Xi'an, Shaanxi, China
@@ -84,11 +84,6 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
-disqus:
-  shortname: lancecai
-
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/12/10 by Hanlin Cai.
