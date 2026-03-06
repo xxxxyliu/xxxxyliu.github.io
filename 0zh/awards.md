@@ -4,11 +4,13 @@ permalink: /0zh/awards/
 title: Awards-zh
 ---
 
-> 更新时间 2025/04/10 &nbsp; [English Version (英文)](/0en/awards/)
+> 更新时间 2026/03/06 &nbsp; [English Version (英文)](/0en/awards/)
+<!-- > 更新时间 2025/04/10 &nbsp; [English Version (英文)](/0en/awards/) -->
 
 ---
 
 ## 综合奖学金
+- 2025 年 11 月：西安电子科技大学二等奖学金
 - 2024 年 11 月：西安电子科技大学一等奖学金
 - 2023 年 11 月：西安电子科技大学新生一等奖学金
 - 2020-2021 学年、2021-2022 学年：中国教育部国家励志奖学金
@@ -24,7 +26,8 @@ title: Awards-zh
 ---
 
 ## 科研竞赛
-
+### CVPR2025
+- 冠军: [Agriculture-Vision Challenge 2025](https://www.agriculture-vision.com/agriculture-vision-2025)
 ### CVPR 2024 
 - 冠军: [SoccerNet 多视角犯规识别挑战赛 (Multi-View Foul Recognition) ](https://www.soccer-net.org/challenges/2024)
 - 亚军：[极低光原始图像增强挑战赛 (Low-light Raw Image Enhancement) ](https://pbdl-ws.github.io/pbdl2024/Low-light%20Raw%20Image%20Enhancement/index.html)

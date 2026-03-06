@@ -4,14 +4,17 @@ permalink: /0zh/publications/
 title: Publications-zh
 ---
 
-> 更新时间：2025/04/11 &nbsp;  [English Version (英文)](/0en/publications/)
+> 更新时间：2026/03/06 &nbsp;  [English Version (英文)](/0en/publications/)
+<!-- > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](/0en/publications/) -->
 
-## 待发表论文
-<!-- <br> -->
+## 在投论文
+### Refine-then-Guide: Language-Vision Learning Co-evolution for Referring Image Segmentation<br>
+**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
+提交至 **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.  <br>
 
-### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
-**刘欣雨**, 李玲玲, 路小强, 焦李成, 刘旭, 刘芳, 马文萍, 杨淑媛<br>
-提交于 **ACM MM 2025** <br>
+### Semantic-Guided Detail Reconstruction for Referring Image Segmentation Across Diverse Domains<br>
+**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
+提交至 **IEEE Transactions on Image Processing (TIP)**.  <br>
 
 ---
 
@@ -73,7 +76,7 @@ title: Publications-zh
 ### ⬥ 基于双通道的多模态特征融合遥感图像分类方法及装置
 - 发明人: 焦李成,孙龙,刘欣雨,曹佳敏,刘旭,马文萍,张丹,田小林
 - 申请时间：2024年11月5日
-- 状态：审查中
+- 状态：**已授权**
 
 #### ⬥ 基于多模态时空差分特征增强的遥感变化检测方法及系统
 - 发明人：刘芳,孙龙,车晨悦,刘欣雨,焦李成,张丹,黄思婧,邓颖敏,杨育婷,冯志玺,刘旭,郭雨薇

@@ -7,7 +7,7 @@ title: Awards
 > Lastest Update: 2025/04/11 &nbsp; [Chinese Version](/0zh/awards/)
 
 ## Scholarships
-
+- 2025.11：Second-class Scholarship, Xidian University.
 - 2024.11: First-class Scholarship, Xidian University.
 - 2023.11: Freshman First-class Scholarship, Xidian University.
 - 2020-2021, 2021-2022: National Encouragement Scholarship of China Ministry of Education.

@@ -4,7 +4,8 @@ permalink: /0zh/projects/
 title: Projects-zh
 ---
 
-> 更新时间：2025/04/11 &nbsp;  [English Version (英文)](/0en/projects/)
+> 更新时间：2026/03/06 &nbsp;  [English Version (英文)](/0en/projects/)
+<!-- > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](/0en/projects/) -->
 
 ## 悟瞳：遥感大模型理论研究与应用框架 
 > 2024.04-至今

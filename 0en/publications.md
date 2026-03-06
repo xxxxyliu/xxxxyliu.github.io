@@ -9,10 +9,13 @@ title: Publications
 ## Working Paper
 <!-- <br> -->
 
-### Simple yet Robust: A Language-Aware Multi-Scale UNet for Cross-Domain Referring Image Segmentation<br>
+### Refine-then-Guide: Language-Vision Learning Co-evolution for Referring Image Segmentation<br>
 **Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
-Submitted to **ACM MM 2025**. <br>
+Submitted to **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. <br>
 
+### Semantic-Guided Detail Reconstruction for Referring Image Segmentation Across Diverse Domains<br>
+**Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
+Submitted to **IEEE Transactions on Image Processing (TIP)**. <br>
 ---
 
 ## Technical Report 
@@ -67,7 +70,7 @@ Submitted to **ACM MM 2025**. <br>
 ### ⬥ Multi-Modal Feature Fusion for Remote Sensing Image Classification Method and Apparatus Based on Dual Channels
   - Inventors: Jiao Licheng, Sun Long, **Liu Xinyu**, Cao Jiamin, Liu Xu, Ma Wenping, Zhang Dan, Tian Xiaolin
   - Application Date: November 5, 2024
-  - Status: Currently under examination.
+  - Status: **Granted**
 
 ### ⬥ Remote Sensing Change Detection Method and System Based on Multi-Modal Spatio-Temporal Differential Feature Enhancement
   - Inventors: Liu Fang, Sun Long, Che Chenyue, **Liu Xinyu**, Jiao Licheng, Zhang Dan, Huang Sijing, Deng Yingmin, Yang Yuting, Feng Zhixi, Liu Xu, Guo Yuwei

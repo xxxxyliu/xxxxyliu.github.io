@@ -5,10 +5,15 @@ permalink: /0en/
 
 # Xinyu Liu
 
-<img src="/images/xinyu-25.JPG" class="floatpic"> 
+<img src="/images/xinyu-25.JPG" class="floatpic" style="width: 45%;"> 
 
 <br>
 I am a second-year Master's student at the School of Artificial Intelligence, [Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education. Here is my [resume](file/cv.pdf).
+
+<!-- ---
+## 📢 News
+- **[2024.11]**
+--- -->
 
 ## 💫Research Interests💫
 - Referring Image Segmentation
