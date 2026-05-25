@@ -8,6 +8,10 @@ title: Publications
 
 ## Working Paper
 <!-- <br> -->
+### Stage-wise Hierarchical Parameter-Efficient Adaptation for Referring Image Segmentation<br>
+**Xinyu Liu**, Lingling Li, Yuting Yang,Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
+Submitted to **IEEE Transactions on Multimedia (TMM)**. <br>
+
 
 ### Refine-then-Guide: Language-Vision Learning Co-evolution for Referring Image Segmentation<br>
 **Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
@@ -80,7 +84,7 @@ Submitted to **IEEE Transactions on Image Processing (TIP)**. <br>
 ### ⬥ Remote Sensing Multi-Task Interpretation Method and Apparatus Using Cross-Knowledge Interaction Learning and Self-Supervised Auxiliary Learning
   - Inventors: Jiao Licheng, Sun Long, Che Chenyue, **Liu Xinyu**, Yang Yuting, Feng Zhixi, Guo Yuwei, Liu Fang 
   - Application Date: November 5, 2024
-  - Status: Currently under examination.
+  - Status: **Granted**.
 
 ### ⬥ Remote Sensing Visual Localization Method Based on Multi-Scale Progressive Inference
   - Inventors:  Jiao Licheng, Lu Xiaoqiang, Cao Jiamin, **Liu Xinyu**, Yang Shuyuan, Ma Jingjing, Li Lingling, Chen Puhua 

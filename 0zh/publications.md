@@ -8,6 +8,10 @@ title: Publications-zh
 <!-- > 更新时间：2025/04/11 &nbsp;  [English Version (英文)](/0en/publications/) -->
 
 ## 在投论文
+### Stage-wise Hierarchical Parameter-Efficient Adaptation for Referring Image Segmentation<br>
+**Xinyu Liu**, Lingling Li, Yuting Yang,Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
+提交至 **IEEE Transactions on Multimedia (TMM)**. <br>
+
 ### Refine-then-Guide: Language-Vision Learning Co-evolution for Referring Image Segmentation<br>
 **Xinyu Liu**, Lingling Li, Xiaoqiang Lu, Licheng Jiao, Xu Liu, Fang Liu, Wenping Ma, Shuyuan Yang<br>
 提交至 **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**.  <br>
@@ -75,7 +79,7 @@ title: Publications-zh
 
 ### ⬥ 基于双通道的多模态特征融合遥感图像分类方法及装置
 - 发明人: 焦李成,孙龙,刘欣雨,曹佳敏,刘旭,马文萍,张丹,田小林
-- 申请时间：2024年11月5日
+- 申请时间：2024年11月5日；授权日期：2026年01月30日；
 - 状态：**已授权**
 
 #### ⬥ 基于多模态时空差分特征增强的遥感变化检测方法及系统
@@ -86,7 +90,7 @@ title: Publications-zh
 #### ⬥ 跨知识交互学习与自监督辅助学习的遥感多任务解译方法及装置
 - 发明人：焦李成,孙龙,车晨悦,刘欣雨,杨育婷,冯志玺,郭雨薇,刘芳
 - 申请时间：2024年11月5日
-- 状态：审查中
+- 状态：**已授权**
 
 #### ⬥ 一种基于多尺度渐进推理的遥感视觉定位方法
 - 发明人：焦李成,路小强,曹佳敏,刘欣雨,杨淑媛,马晶晶,李玲玲,陈璞花

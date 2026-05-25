@@ -10,7 +10,7 @@ title: 刘欣雨
 
 <div style="margin-bottom: 20px;">你好，欢迎来到我的主页。</div>
 
-我是一名西安电子科技大学人工智能学院的硕士二年级研究生，目前在智能感知与图像理解教育部重点实验室（IPIU实验室），师从[焦李成教授](https://www.xidian.edu.cn/)。这是我的[简历](https://xxxxyliu.github.io/file/cv.pdf)。
+我是一名西安电子科技大学人工智能学院的硕士三年级研究生，目前在智能感知与图像理解教育部重点实验室（IPIU实验室），师从[焦李成教授](https://www.xidian.edu.cn/)。这是我的[简历](https://xxxxyliu.github.io/file/cv.pdf)。
 <br>
 
 我目前的研究方向主要聚焦于计算机视觉中的**参考图像分割** 与**遥感图像解译**，同时也在积极探索*视觉语言理解*、*视频理解* 和 *视觉语言模型* 相关方向。关注多模态和复杂场景的语义理解，并期待在交叉领域中拓展边界、探索未知。
@@ -21,7 +21,7 @@ title: 刘欣雨
 
 坚持用 Markdown 写科研日志，因为相信可复现性是科研人的浪漫。我也会在 [CSDN](https://blog.csdn.net/weixin_45863274) 上写一些博客，欢迎交流与关注～ <br>
 
-**<font color="#990000">目前，我正积极寻找 2026 年秋季入学的博士机会，如果您对我的研究方向感兴趣，或有潜在合作意向，欢迎随时与我联系。📧xxxxyliu@stu.xidian.edu.cn  🌏Wechat:  <a href="https://xxxxyliu.github.io/images/WeChat.jpg">X1658311351</a>  </font>**
+**<font color="#990000">我计划在 2026 年秋季在上海交通大学攻读博士学位，同时会在张江实验室进行联合研究。如果您对我学术背景或潜在的研究合作感兴趣，请随时与我联系。📧xxxxyliu@stu.xidian.edu.cn  🌏Wechat:  <a href="https://xxxxyliu.github.io/images/WeChat.jpg">X1658311351</a>  </font>**
 
 ---
 ## 📖教育经历📖

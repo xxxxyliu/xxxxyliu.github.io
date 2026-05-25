@@ -8,7 +8,7 @@ permalink: /0en/
 <img src="/images/xinyu-25.JPG" class="floatpic" style="width: 45%;"> 
 
 <br>
-I am a second-year Master's student at the School of Artificial Intelligence, [Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education. Here is my [resume](file/cv.pdf).
+I am a third-year Master's student at the School of Artificial Intelligence, [Xidian University](https://www.xidian.edu.cn/), where I conduct research under the supervision of Professor [Licheng Jiao](https://web.xidian.edu.cn/lchjiao/index.html) at the Key Laboratory of Intelligent Perception and Image Understanding (IPIU Lab), Ministry of Education. Here is my [resume](file/cv.pdf).
 
 <!-- ---
 ## 📢 News
@@ -24,7 +24,7 @@ My current research focuses on *Referring Image Segmentation* and *Remote Sen
 
 I regularly publish Chinese technical blogs on CSDN, with cumulative readership exceeding 40,000 views. Welcome to follow my [CSDN account](https://blog.csdn.net/weixin_45863274).<br>
 
-**<font color="#990000">I am actively seeking Ph.D. opportunities in Fall 2026. If you are interested in my academic profile or potential collaborations, please feel free to reach out via 📧Email at xxxxyliu@stu.xidian.edu.cn OR 🌏Wechat: <a href="/images/WeChat.jpg">X1658311351</a>  </font>**
+**<font color="#990000">I will pursue my PhD degree at Shanghai Jiao Tong University in Fall 2026, with joint training at Zhangjiang Laboratory. If you are interested in my academic background or potential research collaboration， please feel free to reach out via 📧Email at xxxxyliu@stu.xidian.edu.cn OR 🌏Wechat: <a href="/images/WeChat.jpg">X1658311351</a>  </font>**
 
 ---
 ## 📖Education📖
